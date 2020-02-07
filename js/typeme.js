@@ -2,7 +2,7 @@ var typed = $(".typed");
 
 $(() => {
 	typed.typed({
-	  strings: ["programming.", "designing.",  "playing soccer.", "cooking...and eating", "being around with fun people."],
+	  strings: ["coding.", "designing systems", "participating in social activities.", "playing soccer.", "cooking."],
 	  typeSpeed: 140,
 	  loop: true,
 	});
